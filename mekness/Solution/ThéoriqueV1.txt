@@ -1,0 +1,17 @@
+1.Balise inline :
+    B. <sub>
+2.controle de vedio :
+    B.controls
+3.Que fait le lien :
+    C.nous améne a l'ancre appelée #tulipe
+4.difference entre margin et padding :
+    //Margin est pour controler l'espace externe d'un element dans l'html
+    (l'espace entre ce element et les autres elements autour de ce element),
+    //Contre padding est pour controler l'espace interne d'element
+    (l'espace entre les elements dans ce element et les limites de ce element).
+5.a quoi sert le FrameWork Boostrap :
+    Boostrap est un FrameWork gratuit concu pour permettent un developpement plus
+    rapide et plus facile des pages web.
+6.methodes pour integrer CSS :
+    a. dans la meme page du html , exactement dans le head , en utilise la balise style.
+    b. dans une fichier sépare (.css), en indique ce fichier dans la balise link au head du html.
