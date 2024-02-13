@@ -15,3 +15,4 @@
 6.methodes pour integrer CSS :
     a. dans la meme page du html , exactement dans le head , en utilise la balise style.
     b. dans une fichier sépare (.css), en indique ce fichier dans la balise link au head du html.
+    c. dans la balise html en ajoute un attribut appelee style
