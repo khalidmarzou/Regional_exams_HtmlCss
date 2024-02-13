@@ -1,0 +1,15 @@
+1.Balise Block :
+    c.<h1>
+2.rendre une liste horizontale :
+    c.display : flex;
+3.cible premier element de son type :
+    A.:first-child
+4.cibler les elements descendants :
+    D.espace
+5.diferences entre classe et id:
+    -id doit etre specifique pour un seul element , contre classe peut utilise pour plusieurs elements
+    -id a une priorité plus elevé que le classe
+    -syntaxe
+6.methodes pour integrer Boostrap :
+    a. en indique le fichier de Boostrap dans le head en html par balise link en href, en donne son adresse dans notre pc
+    b. en donne le lien de Boostrap dans le head en html par balise link en href.
